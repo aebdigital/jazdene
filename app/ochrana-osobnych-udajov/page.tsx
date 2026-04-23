@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Ochrana osobných údajov',
-  description: 'Zásady ochrany osobných údajov spoločnosti Autocentrumbb s.r.o.',
+  description: 'Zásady ochrany osobných údajov spoločnosti JAZDENÉ s. r. o.',
 };
 
 export default function PrivacyPage() {
@@ -13,7 +13,7 @@ export default function PrivacyPage() {
           <p className="mb-3 font-montserrat text-sm font-semibold uppercase tracking-[0.25em] text-green-400">Ochrana osobných údajov</p>
           <h1 className="font-jakarta text-4xl font-bold md:text-5xl">Ochrana osobných údajov</h1>
           <p className="mt-6 border border-white/10 bg-white/5 px-6 py-5 font-montserrat text-base leading-8 text-gray-200">
-            <strong>JAZDENÉ s.r.o.</strong><br />
+            <strong>JAZDENÉ s. r. o.</strong><br />
             Fučíkova 1145/24 977 01 Brezno<br />
             IČO: 55212345, DIČ: 2121234567<br />
             E-mail: jazdenesro@gmail.com<br />

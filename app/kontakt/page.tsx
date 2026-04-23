@@ -3,7 +3,7 @@ import ContactForm from '@/components/ContactForm';
 
 export const metadata: Metadata = {
   title: 'Kontakt | Jazdené – Autobazár Brezno',
-  description: 'Kontaktujte nás – Jazdené s.r.o., Fučíkova 1145/24, 977 01 Brezno. Telefón, email a otváracie hodiny.',
+  description: 'Kontaktujte nás – JAZDENÉ s. r. o., Fučíkova 1145/24, 977 01 Brezno. Telefón, email a otváracie hodiny.',
 };
 
 export default function KontaktPage() {
@@ -22,7 +22,7 @@ export default function KontaktPage() {
           {/* Contact Info */}
           <div className="space-y-8 font-montserrat">
             <div>
-              <h2 className="text-2xl font-bold font-jakarta text-white mb-4">JAZDENÉ s.r.o.</h2>
+              <h2 className="text-2xl font-bold font-jakarta text-white mb-4">JAZDENÉ s. r. o.</h2>
               <div className="text-gray-300 leading-relaxed space-y-1">
                 <p>Fučíkova 1145/24,</p>
                 <p>977 01 Brezno</p>

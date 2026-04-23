@@ -15,9 +15,9 @@ export const metadata: Metadata = {
   },
   description: 'Kúpte si auto bez starostí. Široká ponuka overených vozidiel za najlepšie ceny so zárukou kvality v Brezne.',
   keywords: ['autobazár', 'Brezno', 'ojazdené autá', 'predaj áut', 'výkup áut', 'Jazdené', 'autá Brezno'],
-  authors: [{ name: 'JAZDENÉ s.r.o.' }],
-  creator: 'JAZDENÉ s.r.o.',
-  publisher: 'JAZDENÉ s.r.o.',
+  authors: [{ name: 'JAZDENÉ s. r. o.' }],
+  creator: 'JAZDENÉ s. r. o.',
+  publisher: 'JAZDENÉ s. r. o.',
   robots: {
     index: true,
     follow: true,

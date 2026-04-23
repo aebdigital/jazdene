@@ -40,7 +40,7 @@ export default async function HomePage() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "AutoDealer",
-    "name": "Jazdené s.r.o.",
+    "name": "JAZDENÉ s. r. o.",
     "url": "https://www.jazdene.eu",
     "logo": "https://www.jazdene.eu/logo.svg",
     "image": "https://www.jazdene.eu/hero.jpg",
@@ -84,7 +84,7 @@ export default async function HomePage() {
       <ParallaxHero imageSrc="/hero.jpg">
         <div className="container mx-auto px-4 pt-28 pb-20">
           <div className="max-w-3xl">
-            <p className="text-green-400 font-montserrat font-light text-sm tracking-widest mb-3">JAZDENÉ s.r.o.</p>
+            <p className="text-green-400 font-montserrat font-light text-sm tracking-widest mb-3">JAZDENÉ s. r. o.</p>
             <h1 className="text-5xl md:text-7xl font-bold mb-6 font-jakarta leading-tight">
               KÚPTE SI AUTO BEZ<br />
               <span className="text-green-400">STAROSTÍ</span>
@@ -197,7 +197,7 @@ export default async function HomePage() {
           <div className="max-w-4xl mx-auto">
             <div className="flex flex-col md:flex-row md:items-start md:gap-16 mb-10">
               <div className="flex-1 mb-6 md:mb-0">
-                <p className="text-green-400 font-montserrat font-light text-xs tracking-widest mb-2">JAZDENÉ s.r.o.</p>
+                <p className="text-green-400 font-montserrat font-light text-xs tracking-widest mb-2">JAZDENÉ s. r. o.</p>
                 <h2 className="text-4xl md:text-5xl font-bold font-jakarta text-white leading-tight">
                   Poplatok za prepis<br />auta
                 </h2>
