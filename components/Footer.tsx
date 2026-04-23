@@ -46,7 +46,7 @@ export default function Footer() {
             <CookieSettingsButton className="hover:text-white transition-colors">Cookies</CookieSettingsButton>
           </div>
           <p className="mb-2">Tvorba webu – <a href="https://aebdigital.sk" target="_blank" rel="noopener noreferrer" className="hover:text-white underline transition-colors">AEB Digital</a></p>
-          <p>Copyright © 2025 Jazdené s.r.o. All Rights Reserved</p>
+          <p>Copyright © 2025 JAZDENÉ s.r.o. All Rights Reserved</p>
         </div>
       </div>
     </footer>
