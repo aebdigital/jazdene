@@ -84,7 +84,7 @@ export default async function HomePage() {
       <ParallaxHero imageSrc="/hero.jpg">
         <div className="container mx-auto px-4 pt-28 pb-20">
           <div className="max-w-3xl">
-            <p className="text-green-400 font-montserrat font-light text-sm uppercase tracking-widest mb-3">JAZDENÉ S.R.O.</p>
+            <p className="text-green-400 font-montserrat font-light text-sm tracking-widest mb-3">Jazdené s.r.o.</p>
             <h1 className="text-5xl md:text-7xl font-bold mb-6 font-jakarta leading-tight">
               KÚPTE SI AUTO BEZ<br />
               <span className="text-green-400">STAROSTÍ</span>
