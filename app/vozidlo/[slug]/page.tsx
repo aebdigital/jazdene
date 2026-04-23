@@ -105,7 +105,7 @@ export default async function CarDetailPage({
                   <span className="bg-gray-800 text-white text-xs font-bold font-montserrat px-3 py-1">REZERVOVANÉ</span>
                 )}
                 {car.vatDeductible && (
-                  <span className="bg-green-700 text-white text-xs font-bold font-montserrat px-3 py-1">Odpočet DPH</span>
+                  <span className="bg-red-600 text-white text-xs font-bold font-montserrat px-3 py-1">Odpočet DPH</span>
                 )}
               </div>
               </div>

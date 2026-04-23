@@ -287,7 +287,7 @@ export default function PonukaClient({ cars }: { cars: Car[] }) {
                         <div className="absolute top-2 left-2 bg-gray-800 text-white text-xs font-bold font-montserrat px-2 py-1">REZERVOVANÉ</div>
                       )}
                       {car.vatDeductible && (
-                        <div className="absolute top-2 right-2 bg-green-700 text-white text-xs font-bold font-montserrat px-2 py-1">Odpočet DPH</div>
+                        <div className="absolute top-2 right-2 bg-red-600 text-white text-xs font-bold font-montserrat px-2 py-1">Odpočet DPH</div>
                       )}
                       <div 
                         className="absolute bottom-0 right-0 bg-green-600 text-white font-bold font-jakarta px-4 py-2 text-lg shadow-lg"
